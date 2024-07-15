@@ -9,6 +9,14 @@
 * 查看一家餐廳的詳細資訊，如地址、電話和簡介
 * 依中文名稱、英文名稱與餐廳類別進行搜尋
 
+## 網站示意圖
+
+<img alt="restaurantHome-image" src="https://github.com/YiTing07/Restaurants/blob/main/public/images/restaurants1.png?raw=true" width="600">
+<img alt="restaurantKeyWord-image" src="https://github.com/YiTing07/Restaurants/blob/main/public/images/restaurants2.png?raw=true" width="600">
+<img alt="restaurantDescription-image" src="https://github.com/YiTing07/Restaurants/blob/main/public/images/restaurants3.png?raw=true" width="600">
+
+
+
 ## 開發工具
 * Node.js 18.15.0
 * Express 4.18.2
